@@ -12,7 +12,7 @@
 
 - Wsl Kullanıyorsanız CMD / Powershell - Mac'de Terminal Açın
 ```bash
-ssh-keygen
+ssh-keygen -t rsa -b 4096
 ```
 
 ![image](https://github.com/user-attachments/assets/ec8c9bac-3397-40da-ac0d-70bcb985a360)
