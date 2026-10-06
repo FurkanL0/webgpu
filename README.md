@@ -86,14 +86,28 @@ ssh -p 10705 root@179.255.154.131 -L 6080:localhost:6080
 wget https://raw.githubusercontent.com/FurkanL0/keyfekeder/refs/heads/main/xorg/sandbox/setup-gpu-browser-vast.sh
 ```
 
+<img width="961" height="345" alt="image" src="https://github.com/user-attachments/assets/2e3d0680-9bae-4e64-b7aa-2b250180eb32" />
+
+
 - Yetki Verelim;
 
 ```bash
 chmod +x setup-gpu-browser-vast.sh
 ```
+<img width="581" height="146" alt="image" src="https://github.com/user-attachments/assets/442bd7da-2c03-4b67-a1a6-31558c858203" />
+
 
 - Çalıştıralım;
 
 ```bash
 sudo ./setup-gpu-browser-vast.sh
 ```
+
+<img width="539" height="220" alt="image" src="https://github.com/user-attachments/assets/2c4f8a06-3e4f-41b5-b3b3-19edba1e3b4b" />
+
+- 1
+
+<img width="877" height="482" alt="image" src="https://github.com/user-attachments/assets/0e9e2ad8-bff6-4961-b8c5-28e3527053a3" />
+
+- Kurulum başladı.
+
