@@ -144,3 +144,7 @@ http://127.0.0.1:6080/vnc.html
 
 - Bu kadar.
 - Sunucu açık kaldığı sürece aktif kalır.
+
+- Testler:
+- 1: https://mprep.info/gpu/
+- 2: https://ipaddress.si/
