@@ -34,6 +34,16 @@ Enter same passphrase again:
 
 ![image](https://github.com/user-attachments/assets/3a15ce26-341b-4ca9-8a7a-47d1cd3b927c)
 
+## Kartımızı Seçelim - Giriş Yapalım; 
+
+<img width="1293" height="793" alt="image" src="https://github.com/user-attachments/assets/77111451-8e89-4403-99d9-bda5fa860ebc" />
+
+
+- Sol üst template NVIDIA CUDA seçili kaldı.
+- Ucuzdu 4070S Tercih ettim.
+
+
+
 ## Kurulum;
 
 - Script'i İndirelim;
