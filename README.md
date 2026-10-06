@@ -74,6 +74,10 @@ ssh -p 10705 root@179.255.154.131 -L 6080:localhost:6080
 - Terminale yapıştırdık enterledik.
 - Bize soru soruyor ; yes yazıyoruz ve enterliyoruz.
 
+<img width="855" height="193" alt="image" src="https://github.com/user-attachments/assets/728583ce-6f06-48cf-947d-732134b2f85c" />
+
+- Sunucudayız.
+
 ## Kurulum;
 
 - Script'i İndirelim;
