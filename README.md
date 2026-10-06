@@ -44,6 +44,10 @@ Enter same passphrase again:
 
 #### Sunucumuza Erişelim;
 
+<img width="642" height="219" alt="image" src="https://github.com/user-attachments/assets/90472012-366d-400c-8001-3f9cc2d4c8bf" />
+
+- Instance sekmesine tıklayalım.
+
 <img width="1210" height="411" alt="image" src="https://github.com/user-attachments/assets/caede46d-e473-4a13-b6e2-77e5f001dac7" />
 
 - Sarıyla gösterdiğim CLI Simgesine tıklayın.
