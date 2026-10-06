@@ -140,3 +140,7 @@ http://127.0.0.1:6080/vnc.html
 
 - Ayarladığınız şifreyi girip butona basın.
 
+<img width="989" height="978" alt="image" src="https://github.com/user-attachments/assets/aea09fd0-00f6-482d-9fb8-08bc685fff7e" />
+
+- Bu kadar.
+- Sunucu açık kaldığı sürece aktif kalır.
