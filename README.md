@@ -42,7 +42,28 @@ Enter same passphrase again:
 - Sol üst template NVIDIA CUDA seçili kaldı.
 - Ucuzdu 4070S Tercih ettim.
 
+#### Sunucumuza Erişelim;
 
+<img width="1210" height="411" alt="image" src="https://github.com/user-attachments/assets/caede46d-e473-4a13-b6e2-77e5f001dac7" />
+
+- Sarıyla gösterdiğim CLI Simgesine tıklayın.
+
+<img width="507" height="373" alt="image" src="https://github.com/user-attachments/assets/172bb4f6-0603-4086-bbdb-4d3b8d74b872" />
+
+- Üstteki yada alttaki olur farketmez, üsttekiyle bağlandıysanız üstteki - alttakiyle bağlanırsa alttaki bazen sorun olabiliyor bende 2. yi kullanıyorum.
+
+- Değiştirmemiz gereken bir şey var - Örnek Bu Benimki;
+
+```bash
+ssh -p 10705 root@179.255.154.131 -L 8080:localhost:8080
+```
+
+- Buradaki 8080'i 6080 Olarak Değiştiricez - Şöyle Olacak;
+
+
+```bash
+ssh -p 10705 root@179.255.154.131 -L 6080:localhost:6080
+```
 
 ## Kurulum;
 
