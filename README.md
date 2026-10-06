@@ -111,3 +111,13 @@ sudo ./setup-gpu-browser-vast.sh
 
 - Kurulum başladı.
 
+<img width="963" height="338" alt="image" src="https://github.com/user-attachments/assets/962bb751-f331-4664-9276-e4e568df422f" />
+
+- Bu aşamada sizden ŞİFRE isteyecek.
+- Yazsanızda görünmeyecek ama yazacak ( garip geliyor biliyorum ama böyle )
+- Maximum 8 hane.
+
+<img width="520" height="173" alt="image" src="https://github.com/user-attachments/assets/f18e0317-635e-445e-a744-d3f806b5ccf8" />
+
+- Tekrar şifrenizi istiyor doğrulamak için yazın.
+
