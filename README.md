@@ -33,3 +33,23 @@ Enter same passphrase again:
 -  https://cloud.vast.ai/manage-keys/ - + New'den kayıt edin keyinizi.
 
 ![image](https://github.com/user-attachments/assets/3a15ce26-341b-4ca9-8a7a-47d1cd3b927c)
+
+## Kurulum;
+
+- Script'i İndirelim;
+
+```bash
+wget https://raw.githubusercontent.com/FurkanL0/keyfekeder/refs/heads/main/xorg/sandbox/setup-gpu-browser-vast.sh
+```
+
+- Yetki Verelim;
+
+```bash
+chmod +x setup-gpu-browser-vast.sh
+```
+
+- Çalıştıralım;
+
+```bash
+sudo ./setup-gpu-browser-vast.sh
+```
