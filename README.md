@@ -121,3 +121,22 @@ sudo ./setup-gpu-browser-vast.sh
 
 - Tekrar şifrenizi istiyor doğrulamak için yazın.
 
+<img width="732" height="727" alt="image" src="https://github.com/user-attachments/assets/0adf6009-0c5a-4342-935c-dad0c5ab57b3" />
+
+- Kurulum Başarılı.
+
+## VNC'ye Erişelim;
+
+- Kendi Tarayıcınızdan ( chrome - edge vb. vb. ) - bu adrese girin;
+
+```bash
+http://127.0.0.1:6080/vnc.html
+```
+<img width="710" height="543" alt="image" src="https://github.com/user-attachments/assets/f743d6bd-cacc-47ae-8fff-e02e9de66806" />
+
+- Connect'e basın.
+
+<img width="310" height="256" alt="image" src="https://github.com/user-attachments/assets/3fc3b7d3-eaf7-44de-b7d1-05ac144bfecc" />
+
+- Ayarladığınız şifreyi girip butona basın.
+
